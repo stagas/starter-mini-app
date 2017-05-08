@@ -1,0 +1,8 @@
+{
+  "name": "starter-mini-app",
+  "version": "1.0.0",
+  "description": "starter mini app",
+  "main": "index.js",
+  "author": "George Stagas <gstagas@gmail.com>",
+  "license": "MIT"
+}
